@@ -1,0 +1,2 @@
+./../Model/.fcu/rsaal.js,
+./../Model/.fcu/bmo.js
