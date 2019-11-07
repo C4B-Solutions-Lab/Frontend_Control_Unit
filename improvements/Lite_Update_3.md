@@ -15,7 +15,7 @@
  - Lite Update 3 will introduce asynchrony in this context.
  - Since Lite Update 3 RemoveCurrentView will work in a so-called Async-due-to-Dynamic fashion. The next partial view's "rollback option" won't have to rely on the current partial view's event handler binder being in place when the next partial view is being loaded ! This will enable partial views being loaded in any order !
  - On invoking RemoveCurrentView the previous partial view's event handler binder will be detected in a dynamic way, hence such codename "Async-due-to-Dynamic".
-## GA Release: 2020-01-15 Local Time &nbsp;:pushpin:
+## GA Release: 2020-07-15 Local Time &nbsp;:pushpin:
 ## License:&nbsp;:free:&nbsp;:heavy_check_mark:
 ##
 #
