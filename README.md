@@ -38,4 +38,4 @@ This is a brand new mechanism, aka Progressive Website FrontEnd Mechanism, power
 ## Developer:&nbsp; Łukasz Dąbrowski &nbsp;&nbsp;:poland:
 ### Title:&nbsp; [Engineer](https://medium.com/engineering-leadership/what-does-a-lead-engineer-do-ec8cdc119ff7 "What does an engineer do ?")
 #
-###### :information_source: &nbsp;&nbsp; [C4B Solutions](https://c4b.solutions)
+###### :information_source: &nbsp;&nbsp; [C4B Solutions](https://c4b-solutions.github.io/)
